@@ -1,0 +1,10 @@
+package http;
+
+public class SimpleHttpServer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
